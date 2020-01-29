@@ -4,3 +4,5 @@
 - https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 - https://github.com/yunjey/pytorch-tutorial
 - https://github.com/graykode/nlp-tutorial
+
+- https://www.ritchieng.com/the-incredible-pytorch/ 
