@@ -5,6 +5,7 @@
 - https://github.com/yunjey/pytorch-tutorial
 - https://github.com/graykode/nlp-tutorial
 - https://pytorch-nlp-tutorial-ny2018.readthedocs.io/en/latest/index.html 
+- https://www.google.com/amp/s/blog.floydhub.com/gru-with-pytorch/amp/
 
 # 
 - https://www.ritchieng.com/the-incredible-pytorch/ 
