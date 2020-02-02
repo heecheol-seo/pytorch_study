@@ -7,8 +7,13 @@
 - https://pytorch-nlp-tutorial-ny2018.readthedocs.io/en/latest/index.html 
 - https://www.google.com/amp/s/blog.floydhub.com/gru-with-pytorch/amp/
 
-# 
-- https://github.com/keon/3-min-pytorch  (3분 딥러닝 파이토치맛의 git hub) 
+## 3분 딥러닝 파이토치맛의 git hub
+- https://github.com/keon/3-min-pytorch   
+- https://github.com/ysangj/3-min-pytorch
+
+## 김기현의 자연어 처리 딥러닝 캠프
+- https://github.com/kh-kim/nlp_with_pytorch_examples
+- https://kh-kim.gitbook.io/natural-language-processing-with-pytorch/ 
 
 # 
 - https://www.ritchieng.com/the-incredible-pytorch/ 
