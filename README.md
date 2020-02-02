@@ -8,4 +8,8 @@
 - https://www.google.com/amp/s/blog.floydhub.com/gru-with-pytorch/amp/
 
 # 
+3분 딥러닝 파이토치맛의 git hub 
+- https://github.com/keon/3-min-pytorch
+
+# 
 - https://www.ritchieng.com/the-incredible-pytorch/ 
