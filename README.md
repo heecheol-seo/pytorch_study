@@ -12,3 +12,8 @@
 
 # 
 - https://www.ritchieng.com/the-incredible-pytorch/ 
+
+# 
+Model.zero_grad() or optimizer.zero_grad() : 둘은 (거의) 같은 의미임 
+- model.zero_grad()가 좀더 낫다고 함. 
+- https://discuss.pytorch.org/t/model-zero-grad-or-optimizer-zero-grad/28426/5
