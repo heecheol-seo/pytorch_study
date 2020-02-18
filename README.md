@@ -4,6 +4,8 @@
 - https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
 - https://github.com/yunjey/pytorch-tutorial
 - https://github.com/graykode/nlp-tutorial
+
+### gru 
 - https://www.google.com/amp/s/blog.floydhub.com/gru-with-pytorch/amp/
 
 ### 3분 딥러닝 파이토치맛의 git hub
